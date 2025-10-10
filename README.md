@@ -7,7 +7,7 @@ slowly add labels I collect.
 Status
 ------
 
-Complete (as of September 2025):
+Complete (as of October 2025):
   - Radiance UK/US
   - Ignite Films (US)
   - Subkultur USA (US, Vinegar Partner)
